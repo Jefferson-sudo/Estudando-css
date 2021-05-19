@@ -1,3 +1,4 @@
+<html>
 <head>
     <style>
         h1{
@@ -10,3 +11,4 @@
 <body>
     <h1>Estudando css</h1>
 </body>
+</html>
