@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(2, 2, 2);
+    background-color: rgb(253, 253, 253);
+}
+   
+
+.semespaco{ /*chamando classe semespaco*/
+    letter-spacing: normal;
+}
+
+.espacopositivo{
+    letter-spacing: 1px;
+}
+
+.espaconegativo{
+    letter-spacing: -1px;
+}
+
+.espaconeg3px{
+    letter-spacing: -3px;
+}
